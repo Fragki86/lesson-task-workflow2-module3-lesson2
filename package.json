@@ -5,21 +5,22 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "parcel": "parcel index.html"
+    "parcelTest": "parcel index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NoroffFEU/lesson-task-workflow2-module3-lesson2.git"
+    "url": "git+https://github.com/Fragki86/lesson-task-workflow2-module3-lesson2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NoroffFEU/lesson-task-workflow2-module3-lesson2/issues"
+    "url": "https://github.com/Fragki86/lesson-task-workflow2-module3-lesson2/issues"
   },
-  "homepage": "https://github.com/NoroffFEU/lesson-task-workflow2-module3-lesson2#readme",
+  "homepage": "https://github.com/Fragki86/lesson-task-workflow2-module3-lesson2#readme",
   "dependencies": {
     "axios": "^0.26.0",
-    "parcel": "^2.3.1"
+    "parcel": "^2.3.1",
+    "process": "^0.11.10"
   }
 }
